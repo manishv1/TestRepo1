@@ -1,2 +1,6 @@
 Hello Code added
+<<<<<<< HEAD
 Hello Code Added : Lekman
+=======
+Hello Code added --ManishV
+>>>>>>> ManishV updated code
